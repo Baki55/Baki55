@@ -1,3 +1,8 @@
+[![bkhatib's 42 stats](https://badge.mediaplus.ma/darkblue/bkhatib)](https://github.com/oakoudad/badge42)
+
+
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baki55&count_private=true&theme=dark" />
 </a>
