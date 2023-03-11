@@ -1,4 +1,7 @@
-[![bkhatib's 42 stats](https://badge.mediaplus.ma/darkblue/bkhatib?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</p>
+<p align="center">  
+<img src ="https://badge.mediaplus.ma/darkblue/bkhatib?1337Badge=off&UM6P=off">
+</p>
 
 <pre>
 
