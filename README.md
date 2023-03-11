@@ -19,7 +19,7 @@
 ├─◈ <a href="https://github.com/Baki55/so_long">so_long</a>
 ├─◈ <a href="https://github.com/Baki55/push_swap">push_swap</a>
 ├─◈ <a href="https://github.com/Baki55/philosophers">Philosophers</a>
-├─◈ <a href="https://github.com/Baki55i/minishell">minishell</a>
+├─◈ <a href="https://github.com/Baki55/minishell">minishell</a>
 ├─◈ <a href="https://github.com/Baki55/cub3d">Cub3D</a>
 ├─◈ <a href="https://github.com/Baki55/cpp">CPP</a>
 │
