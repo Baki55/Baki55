@@ -31,10 +31,4 @@
 | ![Baki55's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baki55&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baki55&theme=dark&layout=compact) |
 |:-:|:-:|
 
-<p align="center">
-	<img alt="Baki55's visitors" src="https://komarev.com/ghpvc/?username=Baki55&color=8c36db&style=flat&label=visitors" />
-	<img alt="Baki55's followers" src="https://img.shields.io/github/followers/Baki55?color=blueviolet" />
-	<img alt="Baki55's stars" src="https://img.shields.io/github/stars/Baki55?color=blueviolet" />
-</p>
-
 ---------------
